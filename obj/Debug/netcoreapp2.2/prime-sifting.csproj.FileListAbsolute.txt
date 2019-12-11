@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/prime-sifting/obj/Debug/netcoreapp2.2/prime-sifting.csprojAssemblyReference.cache
+/Users/Guest/Desktop/prime-sifting/obj/Debug/netcoreapp2.2/prime-sifting.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/prime-sifting/obj/Debug/netcoreapp2.2/prime-sifting.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/prime-sifting/obj/Debug/netcoreapp2.2/prime-sifting.AssemblyInfo.cs
+/Users/Guest/Desktop/prime-sifting/bin/Debug/netcoreapp2.2/prime-sifting.deps.json
+/Users/Guest/Desktop/prime-sifting/bin/Debug/netcoreapp2.2/prime-sifting.runtimeconfig.json
+/Users/Guest/Desktop/prime-sifting/bin/Debug/netcoreapp2.2/prime-sifting.runtimeconfig.dev.json
+/Users/Guest/Desktop/prime-sifting/bin/Debug/netcoreapp2.2/prime-sifting.dll
+/Users/Guest/Desktop/prime-sifting/bin/Debug/netcoreapp2.2/prime-sifting.pdb
+/Users/Guest/Desktop/prime-sifting/obj/Debug/netcoreapp2.2/prime-sifting.dll
+/Users/Guest/Desktop/prime-sifting/obj/Debug/netcoreapp2.2/prime-sifting.pdb
